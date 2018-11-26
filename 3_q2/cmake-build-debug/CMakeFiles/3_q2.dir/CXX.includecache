@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Exception.cpp
+Exception.h
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Exception.h
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Exception.h
+iostream
+-
+string
+-
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Stack.cpp
+Stack.h
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Stack.h
+Exception.h
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Exception.h
+iostream
+-
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Stack.h
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/q2demo.cpp
+Stack.h
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Stack.h
+Exception.h
+/Users/aki/Documents/CLionProjects/ENSC251/HW/3_q2/Exception.h
+iostream
+-
+
