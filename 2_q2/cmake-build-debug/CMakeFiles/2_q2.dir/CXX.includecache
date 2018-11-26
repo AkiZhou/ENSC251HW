@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/2_q2/q2.cpp
+iostream
+-
+cstdlib
+-
+cstddef
+-
+ctime
+-
+q2.h
+/Users/aki/Documents/CLionProjects/ENSC251/HW/2_q2/q2.h
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/2_q2/q2.h
+
+/Users/aki/Documents/CLionProjects/ENSC251/HW/2_q2/q2demo.cpp
+iostream
+-
+vector
+-
+q2.h
+/Users/aki/Documents/CLionProjects/ENSC251/HW/2_q2/q2.h
+
